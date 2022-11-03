@@ -1,0 +1,23 @@
+﻿  main.c
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(444,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(761,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(762,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(886,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(887,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1079,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1080,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(937,17): warning C4101: 'duration' :참조되지 않은 지역 변수입니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1088,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1088,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1188,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1188,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1305,25): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1308,37): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1309,38): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1310,38): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1311,38): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1366,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1368,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1392,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\main.c(1293,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Term Project.vcxproj -> C:\Users\user\OneDrive\바탕 화면\프랩\Term Project\Debug\Term Project.exe
