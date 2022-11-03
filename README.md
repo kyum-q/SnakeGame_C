@@ -24,6 +24,6 @@ Player는 총 길이 증가, 속도 증가, 속도 감소, shooting 4가지의 �
 
 shooting일 경우는 아이템을 획득하자마자 사용되는 것이 아닌 보관하다가 공격하고자 할때 발사 버튼(player1: /, player2: R)을 통해 공격할 수 있다. 상대방을 맞히면 상대방의 길이가 감소된다. shooting item은 상단바에 * 표시를 통해 나타나고 최대 일곱 개까지 보관가능하다.
 
-![image](https://user-images.githubusercontent.com/109158497/199724189-e4bb9230-6262-4535-bb89-224f2f87347f.png)
-![image](https://user-images.githubusercontent.com/109158497/199724313-5809eb12-54c4-4cdd-8b30-1954b9f7944c.png)
-![image](https://user-images.githubusercontent.com/109158497/199724347-b6a51de0-10e7-45ef-8fea-2d427e59dad2.png)
+# 실행 화면
+
+![image](https://user-images.githubusercontent.com/109158497/199796563-6ec40132-a3b6-410d-b9d6-ebbc39602af3.png)
