@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/109158497/199799175-6dae9495-bb82-47ac-aaf0-fd3bb0333027.mp4
+
 # SnakeGame
 C언어로 제작한 SnakeGame 2인용
 
