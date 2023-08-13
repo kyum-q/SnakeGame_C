@@ -35,3 +35,6 @@ shooting일 경우는 아이템을 획득하자마자 사용되는 것이 아닌
 <br>
 
 ![실행화면](https://github.com/kyum-q/SnakeGame_C/assets/109158497/c7ac18ba-de0a-4e61-88e6-93d11f1d67dd)
+
+## 🔍&nbsp; 개발 언어
+<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=white"/>
